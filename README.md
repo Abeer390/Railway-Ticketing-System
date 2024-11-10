@@ -46,6 +46,6 @@ This project is about the Online-Railway-Ticketing-System which is used to view 
 - Java [J2EE]
 - JDBC
 - Servlet
-- Oracle ( SQL )
+- MYSQL( SQL )
 
 

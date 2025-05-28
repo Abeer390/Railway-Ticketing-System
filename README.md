@@ -1,5 +1,5 @@
 ### About:
-This project is about the Online-Railway-Ticketing-System which is used to view Train Schedule, search trains, Seat availability, Train timings. We can also enquire about fare of different trains. We can get information about train between two stations. We can book seats online. This provides a safe and secure seat reservation system. 
+This project is about the Railway-Ticketing-System which is used to view Train Schedule, search trains, Seat availability, Train timings. We can also enquire about fare of different trains. We can get information about train between two stations. We can book seats online. This provides a safe and secure seat reservation system. 
 ### Online Train Information and Reservation
 - View Trains Schedule
 - Search Trains
